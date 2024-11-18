@@ -261,6 +261,10 @@ i:hover{
     transition-duration: 700ms;
 }
 
+.logofoot{
+    background-color: transparent;
+}
+
 @media only screen and (max-width: 600px) {
     body {
       background-color: lightblue;
