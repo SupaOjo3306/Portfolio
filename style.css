@@ -9,8 +9,8 @@ body {
     margin-bottom: 0;
 }
 
-#btntop{height: 60px;
-    width: 60px;
+#btntop{height: 30px;
+    width: 30px;
     background: #f8f7fff9;
     border-radius: 50%;
     display: flex;
@@ -20,6 +20,10 @@ body {
     right: 20px;
     bottom: 20px;
     cursor: pointer;}
+
+    #btnup{
+        font-size: 25px;
+    }
 
 header {
     display: flex;
